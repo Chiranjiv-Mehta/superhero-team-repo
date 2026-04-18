@@ -17,3 +17,11 @@ header, footer {
   width: 70%;
   border-radius: 10px;
 }
+.member {
+  transition: 0.3s;
+}
+
+.member:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px red;
+}
