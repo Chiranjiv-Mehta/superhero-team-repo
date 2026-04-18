@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background-color: #0d0d0d;
+  color: white;
+  text-align: center;
+}
+
+header, footer {
+  background: black;
+  padding: 15px;
+}
+
+.member {
+  background: #1a1a1a;
+  margin: 20px auto;
+  padding: 20px;
+  width: 70%;
+  border-radius: 10px;
+}
